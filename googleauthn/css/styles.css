@@ -1,0 +1,112 @@
+.navbar {
+    padding: 0rem 1rem;
+}
+
+.navbar .nav-item.dropdown {
+    padding-right: 1rem !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.dropdown-menu {
+    margin: 0px;
+    margin-bottom: .5rem;
+}
+
+.dropdown-item {
+    padding: .25rem 1rem;
+}
+
+.color-main-blue {
+    background-color: #0067b1;
+}
+
+.color-primary {
+    background-color: #0071bc;
+}
+
+.color-primary-darker {
+    background-color: #205493;
+}
+
+.color-primary-darkest {
+    background-color: #112e51;
+}
+
+.color-gray-dark {
+    background-color: #323a45;
+}
+
+.color-primary-alt-lightest {
+    background-color: #e1f3f8;
+}
+
+.color-gray {
+    background-color: #5b616b;
+}
+
+.color-gray-light {
+    background-color: #aeb0b5;
+}
+
+.color-gray-lighter {
+    background-color: #d6d7d9;
+}
+
+.color-gray-lightest {
+    background-color: #f1f1f1;
+}
+
+.color-gray-cool-light {
+    background-color: #dce4ef;
+}
+
+.color-secondary-dark {
+    background-color: #cd2026;
+}
+
+.footer-text {
+    font-size: .82rem;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.error {
+    color: red;
+}
+
+.form-control {
+    max-width: 30rem;
+}
+
+a {
+    color: #0071bc;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+html,
+body {
+    height: 100%;
+    padding: 0;
+}
+
+.content {
+    flex: 1 0 auto;
+}
+
+.footer {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#loginForm,
+#passwordForm {
+    margin: 1rem 1rem 1rem 1rem;
+    width: 100%;
+}
